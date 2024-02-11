@@ -1,6 +1,5 @@
 
 // Question2 :- Write a code for selection sort
-
 public class Question2 {
     public static void main(String args[]){
       int[] Numbers = {7,6,3,5,13,42,41,21,45,1};
